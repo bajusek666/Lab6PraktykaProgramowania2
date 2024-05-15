@@ -1,3 +1,7 @@
+# przykladowe funkcje utils .py
+"""
+Module with example functions
+"""
 def add ( a: int , b: int) -> int:
     """function to sum numbers"""
     return a + b
